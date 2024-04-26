@@ -1,6 +1,9 @@
-# Product Details Page Task - Mermeto
+# Product Details Page Task - Marmeto
 
 This is a responsive product page built using HTML, CSS, and JavaScript. It showcases a product with various details, including images, title, price, description, color variants, size variants, and quantity selector.
+
+![image](https://github.com/hemanthsaich/ProductDetailsPage-Marmeto/assets/91429511/10963e9c-81f7-4005-8469-bffe76e1233e)
+
 
 ## Features
 
